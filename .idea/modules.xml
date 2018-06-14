@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FlexiPlan.iml" filepath="$PROJECT_DIR$/FlexiPlan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FlexiPlan/FlexiPlan-FlexiPlan.iml" filepath="$PROJECT_DIR$/FlexiPlan/FlexiPlan-FlexiPlan.iml" />
+    </modules>
+  </component>
+</project>
